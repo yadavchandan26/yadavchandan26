@@ -53,7 +53,7 @@ I build machine learning pipelines end to end: data, features, models and evalua
 ## 📫 Connect with me
 
 - GitHub: [@yadavchandan26](https://github.com/yadavchandan26)
-- LinkedIn: [@yadavchandan2607](https://www.linkedin.com/in/yadavchandan26)
+- LinkedIn: [@yadavchandan2607](https://www.linkedin.com/in/yadavchandan2607)
 - Email: [dilipyadav9956@gmail.com]
 
 ---
